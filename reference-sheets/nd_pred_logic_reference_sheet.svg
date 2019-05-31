@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="nd_pred_logic_reference_sheet.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 (unknown)">
   <defs
      id="defs2">
     <marker
@@ -206,11 +206,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1788.1004"
-     inkscape:cy="890.22464"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="529.82036"
+     inkscape:cy="575.17861"
      inkscape:document-units="mm"
-     inkscape:current-layer="g8464"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="3840"
      inkscape:window-height="2085"
@@ -2124,7 +2124,7 @@
          x="388.26135"
          y="378.77454"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458332"
-         id="tspan3019">https://github.com/astoeckel/cs245-f18/</tspan></text>
+         id="tspan3019">https://github.com/astoeckel/cs245-s19/</tspan></text>
     <g
        id="g8290"
        transform="translate(-0.26455688,55.763434)">
